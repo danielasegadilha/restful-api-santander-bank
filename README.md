@@ -1,11 +1,11 @@
 # Santander Bank App
 
-👋 Welcome to the Santander Bank App project, designed to provide a seamless and modern banking experience.
+👋 Welcome to the Santander Bank App project, designed to provide a seamless and modern banking experience!
 
 ## Project Description
 
 📦 This project includes an API that connects the frontend to the backend and the database to access and manipulate user data. The data structure comprises user information, account details, features, card information, and news updates.
-  
+
 ## Dependencies
 
 🔨 The project relies on the following dependencies:
@@ -14,10 +14,9 @@
 - [Backend Framework]: Specify the backend framework for the API (e.g., Express, Django, Flask).
 - [Database]: Describe the database technology for storing user data (e.g., MySQL, PostgreSQL).
 
-
 ## Class diagram
 
-```mermaid 
+```mermaid
 
 classDiagram
   class User {
